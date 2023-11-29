@@ -1,0 +1,68 @@
+baseURL = 'https://www.caryme.com/'
+languageCode = 'en-us'
+title = 'Cary Lee'
+theme = 'goa'
+author = 'Cary Lee'
+
+## Site Settings
+[params]
+author = "Cary Lee"
+intro = "software engineer, classical singer"
+description = "Software engineer at [Amperity](https://amperity.com), [classical tenor](https://caryleetenor.com), alum of Northwestern University. Loves [wine](https://www.cellartracker.com/user.asp?iUserOverride=740285), bicycling, public transit, and inclusive theology. Lives in Seattle with his husband, Todd."
+#description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "carylee"
+instagram = "homonormative"
+#xing = "<username>"
+linkedin = "carylee"
+#twitter = "<username>"
+facebook = "carylee"
+#google = "<username>"
+#googlescholar = "<account_id>"
+#orcid = "0123-4567-8901-2345"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+hackernews = "caryme"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+youtube = "@CaryLee"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#buymeacoffee = "<username>"
+#kaggle = "<username>"
+#holopin = "<username>"
+email = "carylee@gmail.com"
+
+[params.extra]
+copyright = "© 2023 Cary Lee"
+poweredby = false
+displayrssicon = false
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-7ZE310E4RS'

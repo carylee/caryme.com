@@ -1,0 +1,4 @@
+[submodule "themes/goa"]
+	path = themes/goa
+	url = https://github.com/kaapiandcode/hugo-goa.git
+	branch = master
