@@ -21,7 +21,7 @@ keywords = "minimalist,blog,goa,hugo,developer"
 ## Social Accounts
 [params.social]
 github = "carylee"
-instagram = "homonormative"
+instagram = "caryleetenor"
 #xing = "<username>"
 linkedin = "carylee"
 #twitter = "<username>"
@@ -59,7 +59,7 @@ youtube = "@CaryLee"
 email = "carylee@gmail.com"
 
 [params.extra]
-copyright = "© 2023 Cary Lee"
+copyright = "© 2025 Cary Lee"
 poweredby = false
 displayrssicon = false
 
